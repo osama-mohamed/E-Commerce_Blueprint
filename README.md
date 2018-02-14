@@ -31,13 +31,13 @@
 
 # change database connection information in settings.py DATABASES default values with your info then run 
 
-1. export FLASK_APP=buy_sell.py
+1. export FLASK_APP=website.py
 
 2. python -m flask run
 
 # OR you can use
 
-1. export FLASK_APP=buy_sell.py
+1. export FLASK_APP=website.py
 
 2. flask run
 
