@@ -1,6 +1,6 @@
 # [E-Commerce Blueprint](https://buysell-by-osama-mohamed.herokuapp.com) By Flask
 
-[<img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" width="200" title="E-Commerce Blueprint" >](https://buysell-by-osama-mohamed.herokuapp.com)
+[<img src="http://flask.pocoo.org/static/logo/flask.png" width="200" title="E-Commerce Blueprint" >](https://buysell-by-osama-mohamed.herokuapp.com)
 [<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="150" title="E-Commerce Blueprint" >](https://buysell-by-osama-mohamed.herokuapp.com)
 
 
