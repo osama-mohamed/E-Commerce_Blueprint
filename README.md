@@ -8,7 +8,7 @@
 > [E-Commerce Blueprint](https://buysell-by-osama-mohamed.herokuapp.com)
 
 
-## E-commerce website containes:
+## E-commerce website contains:
 * User register 
 * User login
 * User logout 
